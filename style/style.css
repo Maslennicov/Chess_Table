@@ -1,5 +1,11 @@
 .patrat-alb{
     width: 200px;
     height: 200px;
-    background-color: #FFF;
+    background-color: red;
+}
+
+.negru{
+    width: 200px;
+    height: 200px;
+    background-color: black;
 }
